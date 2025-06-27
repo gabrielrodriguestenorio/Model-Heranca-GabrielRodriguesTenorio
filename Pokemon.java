@@ -1,5 +1,5 @@
 public class Pokemon {
-
+    // Tema escolhido: pokemon, porque eu gosto de pokemon :D
     String apelido;
     Integer numero_pokedex;
     String especie;
